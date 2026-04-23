@@ -1,0 +1,4 @@
+name: original_env
+channels:
+  - defaults
+prefix: C:\Users\34354\.conda\envs\original_env
